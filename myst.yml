@@ -23,6 +23,7 @@ project:
     - file: pages/contact.md
 site:
   template: book-theme
+  url: https://planetaryworkshop.org
   options:
     favicon: image.png
     logo: image.png
