@@ -1,6 +1,6 @@
 :::{glossary}
 
 planet
-: Don't get us started.
+: What is a planet? Don't get us started.
 
 :::

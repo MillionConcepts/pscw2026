@@ -1,4 +1,4 @@
-### Schedule and Agenda
+### Schedule & Agenda
 
 The event will take place in a single room with a single track. The notional schedule at this time is for contributed talks during the morning session and for invited talks, panels, and open discussion during the afternoon sessions. The exact schedule and agenda will be finalized based on contributed abstracts and in consultation with the Science Organizing Committee (SOC).
 

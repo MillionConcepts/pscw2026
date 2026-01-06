@@ -1,4 +1,4 @@
-#### Scope
+#### Workshop Scope
 
 This conference is targeted at professionals working in and around the field of planetary science, including scientists, engineers, students, policy-makers, and industry partners. All topics of specific interest to planetary scientists; one-page abstracts; posters, solicited and contributed talks, and break-out sessions to be reviewed and coordinated by a Science Organizing Committee.
 

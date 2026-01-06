@@ -1,4 +1,4 @@
-### Budget and Costs
+### Budget & Costs
 
 The budget for this event is being entirely bootstrapped by registration fees. If we receive 50 paid registrations by January 31, then we will be able to cover baseline costs for the event. If we do not receive enough paid registrations by January 31, then we will cancel the event and all registration fees will be refunded. Total registration for the event is capped at 275 participants.
  

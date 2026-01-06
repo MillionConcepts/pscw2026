@@ -1,4 +1,4 @@
-### Abstracts and Proceedings
+### Abstracts & Proceedings
 
 [Abstracts may be submitted through the Indico portal at solarsystem.events.](https://solarsystem.events/event/1/abstracts/)
 

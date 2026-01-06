@@ -38,6 +38,22 @@ The registration fee is $300. The budget for this event is being entirely bootst
 
 Abstracts are limited to 500 words. Authors of accepted abstracts will be invited to contribute longer proceedings after the event.
 
-**Registration and abstract submissions are now open!**
+---
+
+### **Registration and abstract submissions are now open!**
+
+::::{grid} 1 1 2 2
+:::{card}
+:link: https://solarsystem.events/event/1/registrations/1/
+
+**Register for the Workshop**
+:::
+
+:::{card}
+:link: https://solarsystem.events/event/1/abstracts/
+
+**Submit an Abstract**
+:::
+::::
 
 ![](20240102_121510.jpg)

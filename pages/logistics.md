@@ -1,4 +1,4 @@
-### Logistics and lodging
+### Logistics & lodging
 
 The Kentucky Science Center is located in downtown Louisville KY. If flying, we recommend flying into the Muhammad Ali International Airport (SDF); other major airports in Cincinnati, Indianapolis, and Nashville are all several hours drive away with no train service. There are many excellent hotels within easy walking distance of the venue. We plan to work with local hotels and the tourism board to get more specific hotel recommendations by the end of January.
 

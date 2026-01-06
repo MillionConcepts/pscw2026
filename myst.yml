@@ -11,12 +11,12 @@ project:
   toc:
     - file: pages/main.md
     - file: pages/summary.md
-    - file: pages/registration.md
-    - file: pages/logistics.md
-    - file: pages/virtual.md
-    - file: pages/abstracts.md
     - file: pages/agenda.md
     - file: pages/keynotes.md
+    - file: pages/registration.md
+    - file: pages/virtual.md
+    - file: pages/abstracts.md
+    - file: pages/logistics.md
     - file: pages/organizers.md
     - file: pages/conduct.md
     - file: pages/budget.md
@@ -33,6 +33,15 @@ site:
   nav:
     - title: Home
       url: /
+    - title: Agenda
+      url: /agenda
+      children:
+        - title: Workshop Scope
+          url: /summary
+        - title: Schedule & Agenda
+          url: /agenda
+        - title: Keynote Speakers
+          url: /keynotes
     - title: Registration
       url: /registration
       children:
@@ -45,23 +54,16 @@ site:
         - title: Abstract Submission
           url: /abstracts
         - title: Agenda
-    - title: Agenda
-      url: /agenda
-      children:
-        - title: Agenda
-          url: /agenda
-        - title: Keynotes
-          url: /keynotes
     - title: Logistics
       url: /logistics
       children:
-      - title: Logistics
+      - title: Logistics & Lodging
         url: /logistics
+      - title: Organizers & SOC
+        url: /organizers
       - title: Code of Conduct
         url: /conduct
-      - title: Organizers
-        url: /organizers
-      - title: Budgets
+      - title: Budget & Costs
         url: /budget
       - title: Contact
         url: /contact
