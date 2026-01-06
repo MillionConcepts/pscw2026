@@ -1,4 +1,4 @@
 ### Contact
 
-[TK]@planetaryworkshop.org
+contact@planetaryworkshop.org
 
