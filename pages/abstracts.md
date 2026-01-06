@@ -4,6 +4,13 @@
 
 **Abstracts are solicited on any and all topics of relevance and importance to the planetary science community**, including, but not limited to, the following broad themes: planetary formation, atmospheres, surfaces, interiors; space environment and weather; habitability and astrobiology; exoplanets; software, data, tools, and methods; physical materials; field work and analog studies; missions, instruments, and technology; support for crewed missions and human exploration, including Artemis; funding and policy (esp. at NASA); community advocacy and professional development; education and outreach; diversity, equity, and inclusion; commercial space; and so on.
 
+|  |  |
+|-------|------|
+| Abstracts due | February 15, 2026 |
+| Abstract notifications | March 1, 2026 |
+| Registration closes | March 15, 2026 |
+| Proceedings due | May 15, 2026 |
+
 #### Guidelines
 
 Titles should be composed of <200 characters. Abstracts should be limited to <500 words. Excessively long abstracts may be deemed non-responsive. Authors and co-authors must list their full names and affiliations. References (if desired) may use whatever style you’d like (but please be consistent). Note that there is no lower limit on the length of an abstract. When you submit an abstract, you will be given the opportunity to request a talk, poster, either, or neither (i.e. abstract / proceedings only).
