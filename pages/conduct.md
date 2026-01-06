@@ -4,7 +4,7 @@ Planetary Science Community Workshop US is a community conference intended for n
 
 We value the participation of each member of the planetary science community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events.
 
-To make clear what is expected, all staff, attendees, speakers, exhibitors, organizers, and volunteers are required to conform to the following Code of Conduct, as set forth by the Python Software Foundation. Organizers will enforce this code throughout the event.
+To make clear what is expected, all staff, attendees, speakers, exhibitors, organizers, and volunteers are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
 **Core Values**
 
@@ -22,7 +22,7 @@ Notwithstanding the above, PCSW aims to provide a forum in which the most pressi
 
 **Our Standards**
 
-Every member of our community has the right to have their identity respected. The Python community is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
+Every member of our community has the right to have their identity respected. PSCW is dedicated to providing a positive experience for everyone, regardless of age, gender identity and expression, sexual orientation, disability, physical appearance, body size, ethnicity, nationality, race, or religion (or lack thereof), education, or socio-economic status.
 INAPPROPRIATE BEHAVIOR
 
 Examples of unacceptable behavior by participants include:
@@ -51,10 +51,10 @@ No weapons are allowed at PSCW or any co-organized events. Weapons include but a
 
 **Consequences**
 
-If a participant engages in behavior that violates this code of conduct, the Python community Code of Conduct team may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets.
+If a participant engages in behavior that violates this code of conduct, the conferene organizers may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets.
 Thank you for helping make this a welcoming, friendly community for everyone.
 
-**The Planetary Science Community Workshop is a private event**, open only to registered and invited participants. The [organizers](organizers.md) are the final authority and will remove individuals for violating the code of conduct or for any disruptive or other behavior that places other attendees at risk or distracts from the goals and objectives of the workshop.
+**The Planetary Science Community Workshop is a private event**, open only to registered and invited participants. It is not a NASA or U.S. government sponsored event, and it is not recieving funds directly from the government. The [organizers](organizers.md) are the final authority on all matters at PSCW and will remove individuals for violating the code of conduct or for any disruptive or other behavior that places other attendees at risk or distracts from the goals and objectives of the workshop.
 ___
 
 This Code of Conduct is adopted, with modification, from the [PyCon Code of Conduct](https://us.pycon.org/2024/about/code-of-conduct/). It is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).

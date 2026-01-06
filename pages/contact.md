@@ -1,4 +1,3 @@
 ### Contact
 
-contact@planetaryworkshop.org
-
+Please email contact@planetaryworkshop.org with any questions about PSCW.

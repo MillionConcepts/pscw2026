@@ -29,6 +29,7 @@ site:
     logo: image.png
     hide_toc: false
     hide_title_block: true
+    theme: dark
   nav:
     - title: Home
       url: /
