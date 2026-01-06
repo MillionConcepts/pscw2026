@@ -5,7 +5,7 @@ site:
   hide_outline: true
   hide_toc: true
   hide_title_block: true
-  hide_footer_links: true
+  # hide_footer_links: true
 ---
 
 +++ { "kind": "split-image" }
@@ -21,6 +21,8 @@ site:
 | Registration closes | March 15, 2026 |
 | Proceedings due | May 15, 2026 |
 
+---
+
 #### Scope
 
 This conference is targeted at professionals working in and around the field of planetary science, including scientists, engineers, students, policy-makers, and industry partners. All topics of specific interest to planetary scientists; one-page abstracts; posters, solicited and contributed talks, and break-out sessions to be reviewed and coordinated by a Science Organizing Committee.
@@ -29,8 +31,12 @@ With science at its core, this workshop will also focus on community building, n
 
 Please arrive at PSCW ready to actively participate and contribute!
 
+---
+
 #### Registration and abstract submission
-The registration fee is $300. Abstracts are limited to 1-page, and authors of accepted abstracts will be invited to contribute longer proceedings after the event.
+The registration fee is $300. The budget for this event is being entirely bootstrapped by registration fees. Please register early!
+
+Abstracts are limited to 500 words. Authors of accepted abstracts will be invited to contribute longer proceedings after the event.
 
 **Registration and abstract submissions are now open!**
 

@@ -6,6 +6,8 @@ The co-organizers of PSCW are Chase Million ([Million Concepts](https://millionc
 
 They can be reached directly at chase@millionconcepts.com and paul.byrne@wustl.edu.
 
+The contact email for PSCW mattters, which is most likely to recieve a timely response, is contact@planetaryworkshop.org.
+
 #### Partners
 
 PSCW is being developed as a joint partnership between Million Concepts, OpenPlanetary, the Planetary Research Cooperative, and independent community members. The primary co-organizers are Chase Million (Million Concepts, OpenPlanetary) and Paul Byrne (WashU).
