@@ -19,7 +19,7 @@ project:
     - file: pages/keynotes.md
     - file: pages/organizers.md
     - file: pages/conduct.md
-    - file: pages/budgets.md
+    - file: pages/budget.md
     - file: pages/contact.md
 site:
   template: book-theme
