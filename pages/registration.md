@@ -6,4 +6,12 @@ The registration fee is $300. The budget for this event is being entirely bootst
 
 [^1]: Baseline costs include, but are not limited to, venue and equipment rentals, insurance, coffee / tea service, materials and supplies (e.g. badges), and professional services (e.g. legal, event support). Registrations beyond the first 50 will allow us to provide an increasing level of conference support and services (e.g. breakfast or lunch catering, child care, travel grants, better coffee). There are questions about your interest in such services as part of the registration form. Any funds remaining after expenses are covered will be donated to OpenPlanetary.
 
+|  |  |
+|-------|------|
+| Abstracts due | February 15, 2026 |
+| Abstract notifications | March 1, 2026 |
+| Registration closes | March 15, 2026 |
+| Proceedings due | May 15, 2026 |
+
+
 Full refunds may be requested until January 31. Because of the bootstrapped budget, we will be unable to offer either full or partial refunds after that date.
