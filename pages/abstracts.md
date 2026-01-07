@@ -21,9 +21,9 @@ Titles should be composed of <200 characters. Abstracts should be limited to <50
 
 Submissions by early career researchers and topics of timely and emerging interest to planetary scientists will be prioritized for talk and poster slots. [See information on the planned agenda for more.](agenda.md)
 
-There is no limit on number of abstracts that can be submitted.[^2] The first author must be the person who submits the abstract. With the exception of "abstract only" submissions, the first author of a submitted abstract must also be a registered workshop participant. When registering, please remember to provide your ORCID and self-assessed career stage.
+There is no limit on number of abstracts that can be submitted.[^1] The first author must be the person who submits the abstract. With the exception of "abstract only" submissions, the first author of a submitted abstract must also be a registered workshop participant. When registering, please remember to provide your ORCID and self-assessed career stage.
 
-[^2]: Please do not abuse this.
+[^1]: Please do not abuse this.
 
 #### Proceedings
 
@@ -31,9 +31,9 @@ After the workshop, authors of accepted abstracts will be invited to contribute 
 
 #### AI Use Policy
 
-We will follow [the AI use policy of the journal Planetary Research](https://planetary-research.org/use-of-artificial-intelligence). If you use "AI" (in any form) as part of your abstract preparation, please read and adhere to this policy.[^1]
+We will follow [the AI use policy of the journal Planetary Research](https://planetary-research.org/use-of-artificial-intelligence). If you use "AI" (in any form) as part of your abstract preparation, please read and adhere to this policy.[^2]
 
-[^1]: Briefly: "[...] the use of AI is that the authors of a manuscript are entirely responsible for the integrity of their work, regardless of whether AI was used or not."
+[^2]: Briefly: "[...] the use of AI is that the authors of a manuscript are entirely responsible for the integrity of their work, regardless of whether AI was used or not."
 
 #### Archiving and Discoverability
 
