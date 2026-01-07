@@ -7,7 +7,7 @@
 **Register for the Workshop through the Indico portal at solarsystem.events.**
 :::
 
-The registration fee is $300. The budget for this event is being entirely bootstrapped by registration fees. If we receive 50 paid registrations by January 31, then we will be able to cover [baseline costs](budget.md) for the event.[^1]
+The registration fee is $300. The budget for this event is being entirely bootstrapped by registration fees. If we receive 50 paid registrations by January 31, then we will be able to cover [baseline costs](budget.md) for the event.
 If we do not receive enough paid registrations by January 31, then we will cancel the event and all registration fees will be refunded. Therefore **please register early**. Total registration for the event is capped at 275 participants.
 
 |  |  |

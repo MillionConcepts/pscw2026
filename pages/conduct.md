@@ -54,7 +54,7 @@ No weapons are allowed at PSCW or any co-organized events. Weapons include but a
 If a participant engages in behavior that violates this code of conduct, the conferene organizers may take any action they deem appropriate, including warning the offender or expulsion from the community and community events with no refund of event tickets.
 Thank you for helping make this a welcoming, friendly community for everyone.
 
-**The Planetary Science Community Workshop is a private event**, open only to registered and invited participants. It is not a NASA or U.S. government sponsored event, and it is not recieving funds directly from the government. The [organizers](organizers.md) are the final authority on all matters at PSCW and will remove individuals for violating the code of conduct or for any disruptive or other behavior that places other attendees at risk or distracts from the goals and objectives of the workshop.
+**The Planetary Science Community Workshop is a private event**, open only to registered and invited participants. It is not a NASA or U.S. government sponsored event, and it is not recieving funds directly from the government. The [organizers](organizers.md) are the final authority at PSCW and will remove individuals for violating the code of conduct or for any disruptive or other behavior that places other attendees at risk or distracts from the goals and objectives of the workshop.
 ___
 
 This Code of Conduct is adopted, with modification, from the [PyCon Code of Conduct](https://us.pycon.org/2024/about/code-of-conduct/). It is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
