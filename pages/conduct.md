@@ -59,3 +59,4 @@ Thank you for helping make this a welcoming, friendly community for everyone.
 ___
 
 This Code of Conduct is adopted, with modification, from the [PyCon Code of Conduct](https://us.pycon.org/2024/about/code-of-conduct/). It is licensed under the [Creative Commons Attribution-ShareAlike 3.0 Unported License](https://creativecommons.org/licenses/by-sa/3.0/).
+
