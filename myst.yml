@@ -36,7 +36,7 @@ site:
     - title: Agenda
       url: /agenda
       children:
-        - title: Workshop Scope
+        - title: Summary Overview
           url: /summary
         - title: Schedule & Agenda
           url: /agenda
