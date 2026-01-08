@@ -12,4 +12,4 @@ The [format](agenda.md) will be a mixture of traditional research conference and
 
 #### Proceedings
 
-After the workshop, first authors of accepted abstracts will be invited to contribute longer documents to a ["proceedings" compendium](abstracts.md). The intention is that the proceedings contributions will be informed by interactions at the workshop, and that the proceedings compendium will form a snapshot, non-consensus record of topics, statuses, research, opinions, and recommendations related to the most pressing issues related to the field of planetary science.
+After the workshop, first authors of accepted abstracts will be invited to contribute longer documents to a ["proceedings" compendium](abstracts.md). The intention is that the proceedings contributions will be informed by interactions at the workshop, and that the proceedings compendium will form a snapshot, non-consensus record of topics, statuses, research, opinions, and recommendations related to the most pressing issues facing the field of planetary science.
