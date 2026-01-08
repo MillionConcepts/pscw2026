@@ -10,7 +10,7 @@ The contact email for PSCW matters, which is most likely to recieve a timely res
 
 #### Partners
 
-PSCW is being developed as a joint partnership between Million Concepts, OpenPlanetary, the Planetary Research Cooperative, and independent community members.
+PSCW is being developed as a joint partnership between Million Concepts, OpenPlanetary, the Planetary Research Cooperative, and independent community members. Specific thanks go to Ingrid Dauber, Tanya Harrison, Leah Wasser, and Tom Stein.
 
 #### Science Organizing Committee
 
