@@ -4,7 +4,7 @@
 :::{card}
 :link: https://solarsystem.events/event/1/registrations/1/
 
-**Register for the Workshop through the Indico portal at solarsystem.events.**
+**Register for the Workshop through the Indico portal at [solarsystem.events](https://solarsystem.events/event/1/registrations/1/).**
 :::
 
 The registration fee is $300. The budget for this event is being entirely bootstrapped by registration fees. If we receive 50 paid registrations by January 31, then we will be able to cover [baseline costs](budget.md) for the event.

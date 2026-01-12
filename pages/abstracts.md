@@ -3,7 +3,7 @@
 :::{card}
 :link: https://solarsystem.events/event/1/abstracts/
 
-**Submit an abstract through the Indico portal at solarsystem.events.**
+**Submit an abstract through the Indico portal at [solarsystem.events](https://solarsystem.events/event/1/abstracts/).**
 :::
 
 **Abstracts are solicited on any and all topics of relevance and importance to the planetary science community**, including, but not limited to, the following broad themes: planetary formation, atmospheres, surfaces, interiors; space environment and weather; habitability and astrobiology; exoplanets; software, data, tools, and methods; physical materials; field work and analog studies; missions, instruments, and technology; support for crewed missions and human exploration, including Artemis; funding and policy (esp. at NASA); community advocacy and professional development; education and outreach; diversity, equity, and inclusion; commercial space; and so on.
