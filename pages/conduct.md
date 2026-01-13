@@ -1,8 +1,8 @@
 ### Code of Conduct
 
-Planetary Science Community Workshop US is a community conference intended for networking and collaboration among people who work in and around the planetary sciences.
+Planetary Science Community Workshop US is a community meeting intended for networking and collaboration among people who work in and around the planetary sciences.
 
-We value the participation of each member of the planetary science community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the conference and at all conference events.
+We value the participation of each member of the planetary science community and want all attendees to have an enjoyable and fulfilling experience. Accordingly, all attendees are expected to show respect and courtesy to other attendees throughout the event and at all associated events.
 
 To make clear what is expected, all staff, attendees, speakers, exhibitors, organizers, and volunteers are required to conform to the following Code of Conduct. Organizers will enforce this code throughout the event.
 
@@ -34,7 +34,7 @@ Examples of unacceptable behavior by participants include:
 * Violent threats or language directed against another person
 * Incitement of violence or harassment towards any individual, including encouraging a person to commit suicide or to engage in self-harm
 * Creating additional online accounts in order to harass another person or circumvent a ban
-* Sexual language and imagery in online communities or in any conference venue, including talks
+* Sexual language and imagery in online communities or in any workshop venue, including talks
 * Insults, put downs, or jokes that are based upon stereotypes, that are exclusionary, or that hold others up for ridicule
 * Excessive swearing
 * Unwelcome sexual attention or advances

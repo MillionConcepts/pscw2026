@@ -1,6 +1,6 @@
 ### Schedule & Agenda
 
-The event will take place in a single room with a single track. The notional schedule at this time is for contributed talks during the morning session and for invited talks, panels, and open discussion during the afternoon sessions. The exact schedule and agenda will be finalized based on contributed abstracts and in consultation with the Science Organizing Committee (SOC).
+The event will take place in a single room with a single track. The notional schedule at this time is for contributed talks during the morning session and for invited talks, panels, and open discussion during the afternoon sessions. The afternoon sessions will includes unconference-style workshop breakouts and small- and large-group discussions. The exact schedule and agenda will be finalized based on contributed abstracts and in consultation with the Science Organizing Committee (SOC).
 
 There will be room in the schedule for 30-40 contributed talks (of 8-10 minute duration), and physical space to display ~30-50 posters (~48"x48") continuously. When you submit an abstract, you will be given the opportunity to request a talk, poster, either, or neither (i.e. abstract only). After abstract submission closes, the SOC will review all abstracts for compliance with the scope of the workshop, and triage talk and poster requests.
 

@@ -5,8 +5,8 @@ There is not a dedicated / designated virtual participation component. We specif
 We recognize that this will limit participation by some. However, there will be several ways to participate and contribute from afar, and at no cost.
 * 500-word abstracts may be submitted without registering for the event. (Proceedings contributions will be limited to registered participants.)
 * Talks / presentations / panel discussions will be recorded and made available for free online after the event. (There might be live streaming available if resources and infrastructure allow it. But this falls low in priorities.)
-* Submitted conference materials (abstracts, poster PDFs, proceedings submissions, etc.) will be publicly archived and freely available in Zenodo.
-* Meta-conference discussion will be available through dedicated chat rooms on the Planetary Research Cooperative (PRC) Mattermost or OpenPlanetary (OP) Slack instances [TBD]. These organizations offer free registration / membership.
+* Submitted materials (abstracts, poster PDFs, proceedings submissions, etc.) will be publicly archived and freely available in Zenodo.
+* Meta-workshop discussion will be available through dedicated chat rooms on the Planetary Research Cooperative (PRC) Mattermost or OpenPlanetary (OP) Slack instances [TBD]. These organizations offer free registration / membership.
 
 :::{card}
 :link: https://solarsystem.events/event/1/abstracts/
