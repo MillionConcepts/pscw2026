@@ -50,7 +50,7 @@ With science at its core, this workshop will focus on community building, networ
 
 #### Format
 
-The format will be a mixture of traditional research meeting and unconference workshop. The mornings will be devoted to contributed presentations on scientific and other topics of emerging interesting. The afternoons will devoted to invited talks, panel discussions, small-group breakouts, and focused problem-solving and strategic planning around issues being faced by the field---whether those are scientific, technical, political, cultural, etc.
+The format will be a mixture of traditional research meeting and unconference workshop. The mornings will be devoted to contributed presentations on scientific and other topics of emerging interest. The afternoons will devoted to invited talks, panel discussions, small-group breakouts, and focused problem-solving and strategic planning around issues being faced by the field---whether those are scientific, technical, political, cultural, etc.
 
 #### Proceedings
 
