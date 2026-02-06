@@ -18,13 +18,32 @@ site:
 | Topic | All topics of interest to planetary scientists |
 | Dates | April 14-16, 2026 (9am-5pm) |
 | Registration fee | $300 USD |
+| Virtual registration fee | $0 |
 | Abstract fee | $0 USD |
-| Abstracts due | February 15, 2026 |
-| Abstract notifications | March 1, 2026 |
+| Abstracts due | March 1, 2026 |
+| Abstract notifications | March 15, 2026 |
 | Registration closes | March 15, 2026 |
 | Proceedings due | May 15, 2026 |
 
-**Important note:** The Planetary Science Community Workshop has no source of funding other than registration fees. The event is being entirely bootstrapped. We need 50 paid registrations by January 31 in order for PSCW to happen. **Please register early!**
+::::{grid} 1 1 2 2
+:::{card}
+:link: registration.md
+
+**Register for the Workshop**
+:::
+
+:::{card}
+:link: abstracts.md
+
+**Submit an Abstract**
+:::
+::::
+
+**Important updates [2026.02.06]:**
+* We have met our minimum registration threshold and PSCW will be happening as planned!
+* The abstract deadline has been pushed back to March 1. Abstract notifications will be returned on March 15.
+* The abstract and proceedings policy has changed. Non-registered / virtual participants who submit an abstract that is accepted by the SOC will be invited to submit a proceedings contribution as well, at no cost. This is limited to one submission per lead author.
+* A new "slideshow" option has been added as a presentation option. For this option, authors will submit a single slide of information that will be displayed at the conference during interstitial periods. These submissions will be archived in Zenodo along with other workshop materials.
 
 ::::{grid} 1 1 2 2
 :::{card}

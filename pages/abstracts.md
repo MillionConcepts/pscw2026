@@ -17,13 +17,15 @@
 
 #### Guidelines
 
-Titles should be composed of <200 characters. Abstracts should be limited to <500 words (soft cap). There is not an abstract template; abstract text will be typed into the freeform text box in [the Indico submission form](https://solarsystem.events/event/1/) Excessively long abstracts may be deemed non-responsive. Authors and co-authors must list their full names and affiliations. References (if desired) may use whatever style you’d like (but please be consistent). Note that there is no lower limit on the length of an abstract. When you submit an abstract, you will be given the opportunity to request a talk, poster, either, or neither (i.e. abstract / proceedings only).
+Titles should be composed of <200 characters. Abstracts should be limited to <500 words (soft cap). There is not an abstract template; abstract text will be typed into the freeform text box in [the Indico submission form](https://solarsystem.events/event/1/) Excessively long abstracts may be deemed non-responsive. Authors and co-authors must list their full names and affiliations. References (if desired) may use whatever style you’d like (but please be consistent). Note that there is no lower limit on the length of an abstract. When you submit an abstract, you will be given the opportunity to request a talk, poster, either, or neither (i.e. abstract / proceedings only), or a slideshow[^1].
+
+[^1]: A single slide will be shown in rotation during insterstitial periods at the in-person event. Slides will also be archived in Zenodo with other workshop materials.
 
 Submissions by early career researchers and topics of timely and emerging interest to planetary scientists will be prioritized for talk and poster slots. [See information on the planned agenda for more.](agenda.md)
 
-There is no limit on number of abstracts that can be submitted.[^1] The first author must be the person who submits the abstract. With the exception of "abstract only" submissions, the first author of a submitted abstract must also be a registered workshop participant. When registering, please remember to provide your ORCID and self-assessed career stage.
+There is no limit on number of abstracts that can be submitted.[^2] The first author must be the person who submits the abstract. With the exception of "abstract only" submissions, the first author of a submitted abstract must also be a registered workshop participant. When registering, please remember to provide your ORCID and self-assessed career stage.
 
-[^1]: Please do not abuse this.
+[^2]: Please do not abuse this.
 
 #### Proceedings
 
@@ -31,9 +33,9 @@ After the workshop, authors of accepted abstracts will be invited to contribute 
 
 #### AI Use Policy
 
-We will follow [the AI use policy of the journal Planetary Research](https://planetary-research.org/use-of-artificial-intelligence). If you use "AI" (in any form) as part of your abstract preparation, please read and adhere to this policy.[^2]
+We will follow [the AI use policy of the journal Planetary Research](https://planetary-research.org/use-of-artificial-intelligence). If you use "AI" (in any form) as part of your abstract preparation, please read and adhere to this policy.[^3]
 
-[^2]: Briefly: "[...] the use of AI is that the authors of a manuscript are entirely responsible for the integrity of their work, regardless of whether AI was used or not."
+[^3]: Briefly: "[...] the use of AI is that the authors of a manuscript are entirely responsible for the integrity of their work, regardless of whether AI was used or not."
 
 #### Archiving and Discoverability
 
