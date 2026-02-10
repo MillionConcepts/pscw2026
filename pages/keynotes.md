@@ -6,5 +6,6 @@ Keynote speakers will provide anchors for discussion sessions around specific to
 |-------|------|------|
 | Dr. Tanya Harrison | | Commercial Space |
 | Dr. Ari Koeppel | [The Planetary Society](https://www.planetary.org/) | Policy & Budget |
+| Dr. Rob Lillis | University of California, Berkeley | ESCAPADE mission |
 
 More will be announced very soon!
