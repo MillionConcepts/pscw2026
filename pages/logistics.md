@@ -6,7 +6,7 @@ The Kentucky Science Center is located in downtown Louisville KY. If flying, we 
 |-------|------|------|------|------|
 | The Grady Hotel | 601 W Main St. | 0.1 mi. | $155 | [Book through this link.](https://www.bookonthenet.net/east/premium/eresmain.aspx?id=c9I9UIZ3Up7r4tFRHzVt%2bEslIxnEs1AXauptE2h3zZQ%3d&arrival_date=2026-04-14&stay_nights=2&promo_code=PSC) |
 | Homewood Suites | 635 W Market | 0.2 mi. | $149 | _Booking link coming soon._ |
-| EconoLodge | 401 S 2nd St. | 0.8 mi. | $70 (+$8 parking) | [Book through this link.](https://www.choicehotels.com/reservations/groups/QM83U9) |
+| EconoLodge | 401 S 2nd St. | 0.8 mi. | \$70 (+\$8 parking) | [Book through this link.](https://www.choicehotels.com/reservations/groups/QM83U9) |
 
 ---
 
