@@ -39,11 +39,14 @@ site:
 :::
 ::::
 
-**Important updates [2026.02.06]:**
-* We have met our minimum registration threshold and PSCW will be happening as planned!
-* The abstract deadline has been pushed back to March 1. Abstract notifications will be returned on March 15.
-* The abstract and proceedings policy has changed. Non-registered / virtual participants who submit an abstract that is accepted by the SOC will be invited to submit a proceedings contribution as well, at no cost. This is limited to one submission per lead author.
-* A new "slideshow" option has been added as a presentation option. For this option, authors will submit a single slide of information that will be displayed at the conference during interstitial periods. These submissions will be archived in Zenodo along with other workshop materials.
+**Important updates**
+* 2026.02.06
+  * We have met our minimum registration threshold and PSCW will be happening as planned!
+  * The abstract deadline has been pushed back to March 1. Abstract notifications will be returned on March 15.
+  * The abstract and proceedings policy has changed. Non-registered / virtual participants who submit an abstract that is accepted by the SOC will be invited to submit a proceedings contribution as well, at no cost. This is limited to one submission per lead author.
+  * A new "slideshow" option has been added as a presentation option. For this option, authors will submit a single slide of information that will be displayed at the conference during interstitial periods. These submissions will be archived in Zenodo along with other workshop materials.
+* 2026.02.18
+  * We have secured block rate agreements with 3 local hotels, below the GSA rate. The Logistics tab contains more information.
 
 ::::{grid} 1 1 2 2
 :::{card}
