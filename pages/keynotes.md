@@ -6,6 +6,6 @@ Keynote speakers will provide anchors for discussion sessions around specific to
 |-------|------|------|
 | Dr. Ari Koeppel | [The Planetary Society](https://www.planetary.org/) | Policy & Budget |
 | Dr. Rob Lillis | University of California, Berkeley | ESCAPADE mission |
-| _Coming soon!_ | | Commercial Space |
+| Dr. Elizabeth Frank | [Interlune](https://www.interlune.space/) | Commercial Space |
 
 More will be announced soon!
