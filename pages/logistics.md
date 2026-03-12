@@ -16,7 +16,9 @@ There are many excellent hotels within easy walking distance of the venue. We ha
 #### Venue
 PSCW will be held on the 4th floor of the Kentucky Science Center (pictured below). The address is 727 W Main St, Louisville KY.
 
-The venue is handicap accessible. There are a lot of power outlets and (probably) sufficient wifi capacity. We guarantee that there will be coffee / tea / water service. If the budget supports it (i.e. if enough people register), then we might be able to include breakfast and lunch catering; this will be determined by mid-March. We are looking into options for childcare. Please specify dietary restrictions or interest in childcare services in the registration form or contact the organizers if your situation changes.
+The venue is handicap accessible. There are a lot of power outlets and (probably) sufficient wifi capacity. We guarantee that there will be coffee / tea / water service. ~~If the budget supports it (i.e. if enough people register), then we might be able to include breakfast and lunch catering; this will be determined by mid-March.~~ We will be providing breakfast catering. Please specify dietary restrictions or interest in childcare services in the registration form or contact the organizers if your situation changes.
+
+~~We are looking into options for childcare.~~ We will not be able to provide childcare support.
 
 ![DoScience](DoScience.jpg)
 ____
