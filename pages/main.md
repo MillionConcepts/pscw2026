@@ -22,14 +22,14 @@ site:
 | Abstract fee | $0 USD |
 | Abstracts due | March 1, 2026 |
 | Abstract notifications | March 15, 2026 |
-| Registration closes | March 15, 2026 |
+| Registration closes | March 22, 2026 |
 | Proceedings due | May 15, 2026 |
 
 ::::{grid} 1 1 2 2
 :::{card}
 :link: registration.md
 
-**Registration is closed**
+**Register Now**
 :::
 
 :::{card}
