@@ -29,17 +29,24 @@ site:
 :::{card}
 :link: registration.md
 
-**Register for the Workshop**
+~~**Register for the Workshop**~~(Closed)
 :::
 
 :::{card}
 :link: abstracts.md
 
-**Submit an Abstract**
+~~**Submit an Abstract**~~ (Closed)
 :::
 ::::
 
 **Important updates**
+* 2026.03.15
+  * We've had multiple reports of our emails being routed to spam. Please check your spam folder for any missed PSCW communications.
+  * Abstract notices have been sent. If you didn't recieve yours, please send us an email.
+  * We will be providing breakfast catering all three days and boxed lunches on the first day (only). If you did not specify a dietary restriction during registration, please contact us to make sure that we can communicate it to the caterer.
+  * There will be free parking in the Kentucky Science Center lot for PSCW attendees.
+  * We were unable to identify a good childcare option and will not be able to provide one.
+
 * 2026.02.06
   * We have met our minimum registration threshold and PSCW will be happening as planned!
   * The abstract deadline has been pushed back to March 1. Abstract notifications will be returned on March 15.
@@ -52,13 +59,13 @@ site:
 :::{card}
 :link: registration.md
 
-**Register for the Workshop**
+~~**Register for the Workshop**~~(Closed)
 :::
 
 :::{card}
 :link: abstracts.md
 
-**Submit an Abstract**
+~~**Register for the Workshop**~~(Closed)
 :::
 ::::
 
