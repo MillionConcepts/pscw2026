@@ -29,13 +29,13 @@ site:
 :::{card}
 :link: registration.md
 
-~~**Register for the Workshop**~~(Closed)
+**Registration is closed**
 :::
 
 :::{card}
 :link: abstracts.md
 
-~~**Submit an Abstract**~~ (Closed)
+**Abstract submission is closed**
 :::
 ::::
 
@@ -54,21 +54,7 @@ site:
   * A new "slideshow" option has been added as a presentation option. For this option, authors will submit a single slide of information that will be displayed at the conference during interstitial periods. These submissions will be archived in Zenodo along with other workshop materials.
 * 2026.02.18
   * We have secured block rate agreements with 3 local hotels, below the GSA rate. The Logistics tab contains more information.
-
-::::{grid} 1 1 2 2
-:::{card}
-:link: registration.md
-
-~~**Register for the Workshop**~~(Closed)
-:::
-
-:::{card}
-:link: abstracts.md
-
-~~**Register for the Workshop**~~(Closed)
-:::
-::::
-
+ d
 ---
 
 #### Scope
